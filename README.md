@@ -1,7 +1,7 @@
 # About me...
-😄 Work hard play hard!
-👩‍💻 I am a full stack engineer, with experience in Ruby on Rails, JavaScript, NodeJs, React, Redux, Postgresql, MongoDB...
-⭐ I speak Chinese and English
+- 😄 Work hard play hard!
+- 👩‍💻 I am a full stack engineer, with experience in Ruby on Rails, JavaScript, NodeJs, React, Redux, Postgresql, MongoDB...
+- ⭐ I speak Chinese and English
 
 
 <!---
